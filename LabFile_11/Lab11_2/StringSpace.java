@@ -1,4 +1,4 @@
-package com.capg.eleven_two;
+package com.capg.Lab11_2;
 
 public abstract class StringSpace implements IStringSpace {
     public static void main(String[] args) {
