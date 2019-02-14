@@ -1,4 +1,4 @@
-package com.capg.eleven_1;
+package com.capg.Lab11_1;
 
 public abstract class Program11_1 implements  PowInterface {
 	public static void main(String[] args) {
