@@ -1,4 +1,4 @@
-package com.capg.eleven_4;
+package com.capg.Lab11_4;
 
 import java.util.Scanner;
 
